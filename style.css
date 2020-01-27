@@ -1,0 +1,34 @@
+/*
+ *Name: Isabella Samuelsson
+ *UnityID: insamuel
+ *Date: 11/26/18
+ *Assignment: Independent Assignment 5
+ *Description: HTML and Styling
+ */
+
+body {
+	
+	background-color: #005577;
+
+  }
+
+
+
+
+#photo-resize {
+
+	border: 2px outset #00FF00;
+	max-width: 200px ;
+	max-height: 250px ;
+
+	}
+
+
+
+
+
+.table-border {
+
+	border: 2px solid #00FF00 ;
+       
+       }
